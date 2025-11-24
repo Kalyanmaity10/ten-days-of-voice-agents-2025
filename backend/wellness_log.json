@@ -1,20 +1,11 @@
 [
     {
-        "timestamp": "2025-11-23T22:30:09.981582",
+        "timestamp": "2025-11-24T19:11:59.053152",
         "mood": "low",
-        "energy": "one",
+        "energy": "very low",
         "objectives": [
             "make a video"
         ],
-        "summary": "Today, focus on identifying just one key concept or term for your EA agents tutorial to make progress even with low energy."
-    },
-    {
-        "timestamp": "2025-11-23T22:46:20.860498",
-        "mood": "fine",
-        "energy": "high",
-        "objectives": [
-            "Sleep"
-        ],
-        "summary": "To help with sleep, try creating a relaxing environment by dimming lights, playing calming music, or reading a book."
+        "summary": "Break down your video tutorial into tiny, achievable steps to manage your low energy."
     }
 ]
